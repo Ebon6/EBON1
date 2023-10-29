@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+#EXTINF:-1 tvg-logo=”https://static.wikia.nocookie.net/logopedia/images/2/20/GTVBangladeshLogo.png/revision/latest?cb=20211216052340” group-title=”Bangla”, GTV
 http://172.27.27.3:8088/hls/01_Gazitv.m3u8
